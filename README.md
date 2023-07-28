@@ -7,7 +7,7 @@ My skills include:
 - Frameworks: Express.js
 - Libraries: React, Sequelize, Material UI
 - Databases: PostgreSQL, SQL
-- APIs: Plaid
+- APIs: Plaid, Stripe
 - Tooling: Git, Node.js, Webpack, Babel
 - Methodologies: Test Driven Development
 
